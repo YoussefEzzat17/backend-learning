@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+public/
+.quartz-cache/
+
+# Obsidian local settings
+.obsidian/
+Backend Engineering/.obsidian/
+
+# Private notes: only "99 - Published" is ever committed
+Backend Engineering/*
+!Backend Engineering/99 - Published
